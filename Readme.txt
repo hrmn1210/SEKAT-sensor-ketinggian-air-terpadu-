@@ -1,5 +1,5 @@
 ============================================================
-🌊 Dashboard Monitoring Banjir Pontianak - Realtime System
+🌊 SEKAT (Sensor Ketinggian Air Terpadu)
 ============================================================
 
 📜 Deskripsi
@@ -64,9 +64,9 @@ Jika ada ide, fitur baru, atau perbaikan bug, jangan ragu untuk kirimkan.
 
 📬 Kontak
 ----------
-Developer: [Nama Kamu]
-Email    : [Email Kamu]
-GitHub   : [Username GitHub Kamu]
+Developer: [Herman Firmansyah]
+Email    : [15220648@bsi.ac.id]
+GitHub   : [hrmn1210]
 
 ============================================================
 Dibuat dengan ❤️ untuk masyarakat Pontianak dan Indonesia.
