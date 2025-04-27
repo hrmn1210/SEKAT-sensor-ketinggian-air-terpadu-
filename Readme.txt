@@ -45,7 +45,7 @@ Sistem menampilkan:
 📦 Cara Menjalankan
 --------------------
 1. Clone repository ini ke lokal:
-   > git clone [URL_REPOSITORY_KAMU]
+   > git clone [https://github.com/hrmn1210/SEKAT-sensor-ketinggian-air-terpadu-.git]
 
 2. Buka file `index.html` menggunakan browser modern (Chrome, Edge, Firefox).
 
