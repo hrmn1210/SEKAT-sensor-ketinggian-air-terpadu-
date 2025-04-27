@@ -28,6 +28,14 @@ def api_sensor():
     data = read_sensor()
     return jsonify(data)
 
+@app.route('/kontak')
+def kontak():
+    return render_template('kontak.html')
+
+@app.route('/tentang')
+def tentang():
+    return render_template('tentang.html')
+
 @app.route('/cctv')
 def cctv():
     return render_template('cctv.html')
