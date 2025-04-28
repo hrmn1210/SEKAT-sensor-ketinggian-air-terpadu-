@@ -32,6 +32,10 @@ def api_sensor():
 def kontak():
     return render_template('kontak.html')
 
+@app.route('/saran')
+def saran():
+    return render_template('saran.html')
+
 @app.route('/tentang')
 def tentang():
     return render_template('tentang.html')
